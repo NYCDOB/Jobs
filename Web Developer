@@ -4,7 +4,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 	<link href="https://fonts.googleapis.com/css?family=PT+Sans+Narrow" rel="stylesheet">
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css">
-	<title>Performance Analytics Director</title>
+	<title>Web Developer</title>
 </head>
 
 <style>
@@ -50,11 +50,11 @@
 	</div>
 	<div class="display-element">
 	    <span class="display-label">Title:</span>
-	    <span class="display-field">Director, Performance Analytics</span>
+	    <span class="display-field">Developer, Analytics Development</span>
 	</div>
 	<div class="display-element">
 	    <span class="display-label">CS Title:</span>
-	    <span class="display-field">Computer Systems Manager</span>
+	    <span class="display-field">Computer Associate (Software)</span>
 	</div>
 	<div class="display-element">
 	    <span class="display-label">Agency:</span>
@@ -62,7 +62,7 @@
 	</div>
 	<div class="display-element">
 	    <span class="display-label">Salary:</span>
-	    <span class="display-field">$60,435 - $120,000 (Annual)</span>
+	    <span class="display-field">$64,657 - $80,000 (Annual)</span>
 	</div>
 
 	<hr>
@@ -70,22 +70,17 @@
 	<div>
 		<h3>Job Description</h3>
 		<p>
-			The NYC Department of Buildings is seeking a Director of Performance Analytics. This position will lead all aspects of the performance measurement program at the Department, building on existing efforts, assessing progress to date, and developing and implementing a plan for the future. It will be critical for the successful candidate to envision an effective partnership with Spatial Analysis, Predictive Risk and Research and Analysis efforts.
+			The NYC Department of Buildings is seeking a Web Developer for its Analytics Development team. This position will provide support to the Analytics Development program at the Department, building on existing efforts, assessing progress to date, and supporting a program responsible for delivering advanced analytics and data science solutions. It will be critical for the successful candidate to provide development support to efforts related to predictive analytics, GIS and spatial analysis, and application development.
 		</p>
 		<br>
 		<b>Duties will include:</b>
 		<ul>
-			<li>Developing and modifying Key Performance Indicators to ensure the agency is meeting critical goals.</li>
-			<li>Briefing the Commissioner and senior staff in performance measurement meetings including developing relevant presentations, metrics, and strategies for effectively communicating with operational leaders to ensure productive conversations about performance.</li>
-			<li>Researching and implementing best practices in performance measurement to advance the Department's efforts to improve performance.</li>
-			<li>Analyzing complex data sets with business considerations in mind and presenting findings in an easy to consume manner.</li>
-			<li>Using technical applications for database administration, planning of data and information processing, and user services.</li>
-			<li>Conducting quality assurance on analysis of the Performance Analytics unit and willingness to conduct quality assurance on peer analysis.</li>
-			<li>Leading and managing a team of data analysts.</li>
-			<li>Performing professional managerial work in the planning, organizing, and controlling of major technical initiatives.</li>
-			<li>Partnering in a data warehouse modernization effort .</li>
+			<li>Developing web-based applications with Javascript, HTML, CSS, D3 and other front-end technologies.</li>
+			<li>Using a range of programming languages to develop customized analytics solutions for internal and public users.</li>
+			<li>Integrating front-end UI with backend service APIs using SOAP, XML, JSON, REST, or CSV.</li>
+			<li>Evaluating GIS capabilities and supporting GIS development and operations using open-source spatial tools.</li>
 			<li>Serving as a technical resource for special projects and technology initiatives.</li>
-      <li>Special projects as assigned by the Chief Analytics Officer.</li>
+			<li>Special projects as assigned by the Chief Analytics Officer.</li>
 		</ul>
 	</div>
 
@@ -93,17 +88,14 @@
 		<h3>Minimum Qualification Requirements</h3>
 		<ol>
 			<li>
-				A master's degree in computer science from an accredited college and three years of progressively more responsible, full-time, satisfactory experience using information technology in computer applications programming, systems programming, computer systems development, data telecommunications, database administration, planning of data/information processing, user services, or area networks at least 18 months of this experience must have been in an administrative, managerial or executive capacity in the areas of computer applications programming, systems programming, computer systems development, data telecommunications, data base administration, or planning of data processing or in the supervision of staff performing these duties; or  
+				A baccalaureate degree from an accredited college including or supplemented by 24 semester credits in computer science or a related computer field and one year of satisfactory full-time computer software experience in computer systems development and analysis, applications programming, database administration, maintenance and support, systems programming, data communications, mainframe development, mobile development, web development and design; or
 			</li>			
 			<li>
-				A baccalaureate degree from an accredited college and four years of experience as described in "1" above; or 
+				A four-year high school diploma or its educational equivalent and five years of satisfactory full-time computer software experience as described in "1" above; or
 			</li>
 			<li>
-				A four-year high school diploma or its educational equivalent approved by a State's department of education or recognized accrediting organization and six years of experience as described in "1" above; or
+				Education and or/or experience equivalent to "1" or "2" above. College education may be substituted for up to two years of the required experience in "2" above on the basis that 60 semester credits from an accredited college is equated to one year of experience. In addition, 24 semester credits from an accredited college or graduate school in computer science or a related field, or a certificate of at least 625 hours in computer programming from an accredited technical school (post high school), may be substituted for one year of experience. However, all candidates must have at least a four-year high school diploma or its educational equivalent and at least one year of satisfactory full-time experience as described in "1" above.
 			</li>
-			<li>
-          			A satisfactory combination of education and experience equivalent to "1", "2" or "3" above. However, all candidates must have at least a four-year high school diploma or its educational equivalent approved by a State's department of education or recognized accrediting organization and must possess at least three years of experience as described in "1" above, including the 18 months of administrative, managerial, executive or supervisory experience as described in "1" above.
-      			</li>
 		</ol>
 		
 	</div>
@@ -111,34 +103,50 @@
 	<div>
 		<h3>Preferred Skills</h3>
 		<ul>
-			<li>A master’s degree in Computer Science, Statistics, Information Systems, Business, or Public Administration </li>
+			<li>A master’s degree in Computer Science, Statistics, Information Systems, or related field </li>
 			<li>
-				Experience with the development, monitoring, and reporting of performance metrics that provide clear guidance to senior management.
+				5+ years of progressive experience in front-end web development, data analytics, data science, or business intelligence
 			</li>
 			<li>
-				Excellent communication skills across all levels and types of staff.
+				Documented experience developing with Javascript, HTML, CSS, D3 and other front-end technologies
 			</li>
 			<li>
-				Experience managing day-to-day activities of a large-scale technical operation, serving as a head of performance management and/or business systems.
+				Excellent analytical and problem solving with strong communications and interpersonal skills
 			</li>
 			<li>
-				Leadership skills including ability to envision a future state and understanding of how to articulate and take necessary steps for success. 
+				Expert knowledge of one or more of the following languages (R, Python, SQL, Java)
 			</li>
 			<li>
-				 Ability to consume complex technical information.
+				Proven experience developing and deploying web services
 			</li>
 			<li>
-				Technical background in statistical languages such as R, Python, or SQL.
+				Strong data visualization skills
 			</li>
 			<li>
-				Experience with analytics and BI tools such as Tableau, OBIEE, SAS, SPSS, Scala, etc.
+				Experience developing open source geospatial data solutions using Leaflet, PostGIS, MapboxGL, Carto, or QGIS
 			</li>
-			<li>Advanced understanding of Microsoft Excel and Access including advanced formulas, conditionals, and pivot tables.</li>
-			<li>Polished data visualization abilities.</li>
+			<li>Basic knowledge of ESRI ArcGIS Server and ArcGIS Online</li>
+			<li>Extensive experience with database management systems, including SQL Server, Oracle, or PostgreSQL</li>
 			<li>
-				Ability to work effectively on a team in a dynamic work environment.
+				Knowledge and experience with API and ETL concepts and tools
+			</li>
+			<li>
+				Candidate should be an active Github contributor
+			</li>
+			<li>
+				Ability to support a diverse team of data analysts, programmers, business analysts in a dynamic work environment
 			</li>
 		</ul>
+	</div>
+
+	<div>
+		<h3>Additional Information</h3>
+		<p>
+			Only permanent Computer Associates (Software) and applicants who score 100 or greater on the most recent Computer Associate (Software) Open Competitive Exam will be considered. Please indicate on your resume whether you or permanent or your list number, whichever is applicable.
+		</p>
+		<p>
+			This position is open to qualified persons with a disability who are eligible for the 55-a Program. If you are eligible for and would like to be considered under the 55-a program, please indicate that on your resume and cover letter.
+		</p>
 	</div>
 	<div>
 		<h3>Work Location</h3>

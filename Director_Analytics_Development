@@ -4,7 +4,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 	<link href="https://fonts.googleapis.com/css?family=PT+Sans+Narrow" rel="stylesheet">
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css">
-	<title>Web Developer</title>
+	<title>Director, Analytics Development</title>
 </head>
 
 <style>
@@ -50,11 +50,11 @@
 	</div>
 	<div class="display-element">
 	    <span class="display-label">Title:</span>
-	    <span class="display-field">Developer, Analytics Development</span>
+	    <span class="display-field">Director, Analytics Development</span>
 	</div>
 	<div class="display-element">
 	    <span class="display-label">CS Title:</span>
-	    <span class="display-field">Computer Associate (Software)</span>
+	    <span class="display-field">Computer Systems Manager</span>
 	</div>
 	<div class="display-element">
 	    <span class="display-label">Agency:</span>
@@ -62,7 +62,7 @@
 	</div>
 	<div class="display-element">
 	    <span class="display-label">Salary:</span>
-	    <span class="display-field">$64,657 - $80,000 (Annual)</span>
+	    <span class="display-field">$60,435 - $120,000 (Annual)</span>
 	</div>
 
 	<hr>
@@ -70,15 +70,20 @@
 	<div>
 		<h3>Job Description</h3>
 		<p>
-			The NYC Department of Buildings is seeking a Web Developer for its Analytics Development team. This position will provide support to the Analytics Development program at the Department, building on existing efforts, assessing progress to date, and supporting a program responsible for delivering advanced analytics and data science solutions. It will be critical for the successful candidate to provide development support to efforts related to predictive analytics, GIS and spatial analysis, and application development.
+			The NYC Department of Buildings is seeking a Director of Analytics Development. This position will lead all aspects of the Analytics Development program at the Department, building on existing efforts, assessing progress to date, and leading a program responsible for delivering advanced analytics and data science solutions. It will be critical for the successful candidate to provide leadership to efforts related to predictive analytics, GIS and spatial analysis, and application development.
 		</p>
 		<br>
 		<b>Duties will include:</b>
 		<ul>
-			<li>Developing web-based applications with Javascript, HTML, CSS, D3 and other front-end technologies.</li>
+			<li>Leading and managing a cross-functional team of data analysts and programmers.</li>
 			<li>Using a range of programming languages to develop customized analytics solutions for internal and public users.</li>
+			<li>Optimizing statistical tools to solve core business problems.</li>
+			<li>Evangelizing data science and machine learning throughout the agency and to the public.</li>
+			<li>Development of predictive algorithms, automated machine learning (AML), and artificial intelligence (AI) solutions.</li>
+			<li>Embedding and deploying algorithms into existing business processes.</li>
+			<li>Developing web-based applications with Javascript, HTML, CSS, D3 and other front-end technologies.</li>
 			<li>Integrating front-end UI with backend service APIs using SOAP, XML, JSON, REST, or CSV.</li>
-			<li>Evaluating GIS capabilities and supporting GIS development and operations using open-source spatial tools.</li>
+			<li>Evaluating GIS capabilities and overseeing GIS development and operations.</li>
 			<li>Serving as a technical resource for special projects and technology initiatives.</li>
 			<li>Special projects as assigned by the Chief Analytics Officer.</li>
 		</ul>
@@ -88,13 +93,16 @@
 		<h3>Minimum Qualification Requirements</h3>
 		<ol>
 			<li>
-				A baccalaureate degree from an accredited college including or supplemented by 24 semester credits in computer science or a related computer field and one year of satisfactory full-time computer software experience in computer systems development and analysis, applications programming, database administration, maintenance and support, systems programming, data communications, mainframe development, mobile development, web development and design; or
+				A master's degree in computer science from an accredited college and three years of progressively more responsible, full-time, satisfactory experience using information technology in computer applications programming, systems programming, computer systems development, data telecommunications, database administration, planning of data/information processing, user services, or area networks at least 18 months of this experience must have been in an administrative, managerial or executive capacity in the areas of computer applications programming, systems programming, computer systems development, data telecommunications, data base administration, or planning of data processing or in the supervision of staff performing these duties; or 
 			</li>			
 			<li>
-				A four-year high school diploma or its educational equivalent and five years of satisfactory full-time computer software experience as described in "1" above; or
+				A baccalaureate degree from an accredited college and four years of experience as described in "1" above; or
 			</li>
 			<li>
-				Education and or/or experience equivalent to "1" or "2" above. College education may be substituted for up to two years of the required experience in "2" above on the basis that 60 semester credits from an accredited college is equated to one year of experience. In addition, 24 semester credits from an accredited college or graduate school in computer science or a related field, or a certificate of at least 625 hours in computer programming from an accredited technical school (post high school), may be substituted for one year of experience. However, all candidates must have at least a four-year high school diploma or its educational equivalent and at least one year of satisfactory full-time experience as described in "1" above.
+				A four-year high school diploma or its educational equivalent approved by a State's department of education or recognized accrediting organization and six years of experience as described in "1" above; or 
+			</li>
+			<li>
+				A satisfactory combination of education and experience equivalent to "1", "2" or "3" above. However, all candidates must have at least a four-year high school diploma or its educational equivalent approved by a State's department of education or recognized accrediting organization and must possess at least three years of experience as described in "1" above, including the 18 months of administrative, managerial, executive or supervisory experience as described in "1" above. 
 			</li>
 		</ol>
 		
